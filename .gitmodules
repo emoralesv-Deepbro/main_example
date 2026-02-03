@@ -1,0 +1,6 @@
+[submodule "scripts_repo_example2"]
+	path = scripts_repo_example2
+	url = https://github.com/emoralesv-Deepbro/scripts_repo_example2
+[submodule "dev_repo_training_models_example1"]
+	path = dev_repo_training_models_example1
+	url = https://github.com/emoralesv-Deepbro/dev_repo_training_models_example1
